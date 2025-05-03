@@ -85,5 +85,5 @@ It also had additional columns, but they were not used in analysis. If you'd lik
 
 ## Contact
 
-LinkedIn - [Agnė Vabalaitė](www.linkedin.com/in/agnė-vabalaitė).
+LinkedIn - [Agnė Vabalaitė](https://www.linkedin.com/in/agne-vabalaite).
 Gmail - vab.agne@gmail.com
